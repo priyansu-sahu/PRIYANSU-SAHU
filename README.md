@@ -1,5 +1,7 @@
 # 💫 About Me
-I'm currently a Junior CS student @ UMD <br>
+I'm currently a Junior CS student at the University of Maryland, College Park, with a strong interest in software engineering, machine learning (ML), and artificial intelligence (AI), particularly at the intersection with computational biology and chemistry. <br>
+
+Currently grinding leetcode and actively looking for internships! <br>
 
 
 ## 🌐 Socials
